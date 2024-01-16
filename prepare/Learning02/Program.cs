@@ -33,7 +33,7 @@ class Program
 
 
 
-        //Console.WriteLine(myresume._appliedJobs[0]._jobTitle);
+
 
 
 
